@@ -544,5 +544,16 @@
     "difficulty": "hard",
     "answers": ["Kyoto", "Yokohama", "Nagoya", "Sendai"],
     "correctIndex": 0
-  }
+  },
+  {
+  "question": "What is the name of the Japanese comic and animation style? (Community variation 23)",
+  "difficulty": "hard",
+  "answers": [
+    "Manga",
+    "Donghua",
+    "Manhwa",
+    "Comique"
+  ],
+  "correctIndex": 0
+}
 ]
